@@ -25,9 +25,9 @@ public class HelloWorld
 2. Video blogger school certificate
 ---
 ## **Publications**
-1. "Electronic novel as a didactic tool for history education in secondary school", Selected works of 04B I International Conference Youth in Science" National Academy of Science of Republic of Belarus, Minsk: Belarusian Science 2019
-2. "Technology for creating a didactic visual novel" ARS LONGA, Institute of History of National Academy of Science of Republic of Belarus, Minsk 2019
-3. "Gamifcation of Education as a tool to Strengthen Cultural Integration",Selected works of Eurasian scientific forum, St. Petersburg 2018
+1. "Electronic novel as a didactic tool for history education in secondary school", Selected works of 04B I International Conference Youth in Science" National Academy of Science of Republic of Belarus, Minsk: Belarusian Science 2019 — Kirill Botyanovskiy, Linevich Ilya.
+2. "Technology for creating a didactic visual novel" ARS LONGA, Institute of History of National Academy of Science of Republic of Belarus, Minsk 2019 — Kirill Botyanovskiy, Linevich Ilya.
+3. "Gamifcation of Education as a tool to Strengthen Cultural Integration",Selected works of Eurasian scientific forum, St. Petersburg 2018 — Kirill Botyanovskiy, Linevich Ilya.
 ---
 ## **English level**
 А2
