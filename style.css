@@ -2,6 +2,13 @@
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.image {
+    width: 20%;
+    float: left;
+    padding-right: 20px;
+}
 
 .bold1 {
     font-weight: bold;
